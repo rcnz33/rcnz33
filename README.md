@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rcnz33
-- 👀 I’m interested in Web Dev and App / Game Dev
-- 🌱 I’ve learned the basics of HTML and CSS. Currently learning Java and Kotlin.
+- 👀 I’m interested in Game / App Dev and Web Dev
+- 🌱 I’ve learned the basics of HTML and CSS🤗. Currently learning Java and Kotlin. 💖
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
