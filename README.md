@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rcnz33
-- 🙌 Thanks for visiting my profile 😊
+- 🙌 Hello, Thanks for visiting my profile 😊
 - 📅 Joined October 14, 2021
 - 🌐 Check out my website: https://rcnz33.github.io
+- 📄 Nothing to see here 😂
 
 <!---
 rcnz33/rcnz33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
